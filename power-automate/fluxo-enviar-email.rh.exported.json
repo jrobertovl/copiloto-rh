@@ -1,0 +1,14 @@
+{
+  "flow": {
+    "name": "EnviarEmailRH",
+    "trigger": "Copiloto RH - Solicitação",
+    "actions": [
+      {
+        "type": "Enviar email",
+        "destinatario": "rh@empresa.com.br",
+        "assunto": "Nova solicitação de férias",
+        "corpo": "Funcionário José solicitou férias para o período de 15/06 a 30/06."
+      }
+    ]
+  }
+}

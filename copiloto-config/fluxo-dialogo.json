@@ -1,0 +1,12 @@
+{
+  "dialogos": [
+    {
+      "pergunta": "Como solicitar férias?",
+      "resposta": "Você pode solicitar férias preenchendo o formulário no sistema interno ou falando com o RH diretamente. Deseja que eu envie o link agora?"
+    },
+    {
+      "pergunta": "Quantos dias tenho de férias disponíveis?",
+      "resposta": "Isso depende do seu histórico de trabalho. Você pode consultar no sistema 'Meu RH'."
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+- Manual do Colaborador RH.pdf
+- URL: https://empresa.com.br/manual-beneficios
+- Documentação do Sistema Interno "Meu RH"
